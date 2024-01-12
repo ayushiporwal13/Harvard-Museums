@@ -1,0 +1,15 @@
+img{
+    width: 50%;
+    height: 200px;
+}
+ul{
+    display: flex;
+    padding: 1%;
+}
+li{
+    border: 1px solid black;
+    list-style-type: none;
+    font-weight: bold;
+    padding: 1%;
+    cursor: pointer;
+}
